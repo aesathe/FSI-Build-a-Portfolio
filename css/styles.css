@@ -1,0 +1,27 @@
+body {
+    background-color:#F4124C;
+    cursor: url("https://cur.cursors-4u.net/symbols/images6/sym599.png"), auto;
+}
+
+div {
+    text-align: center;
+    font-family: "arial rounded mt";
+}
+
+h1 {
+    font-family: "cooper";
+    font-size: 50px;
+    color: #000000;
+    -webkit-text-stroke-width: 2.5px;
+    -webkit-text-stroke-color: #640d6c;
+}
+
+img {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #640d6c;
+}
+
+a {
+    color: #640d6c;
+}
